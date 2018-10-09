@@ -1,0 +1,15 @@
+#btn-giohang {
+	position: fixed;
+	top: 100px;
+	right: 100px;
+}
+#soluong {
+	position:absolute;
+	top: -20px;
+	right: 0px;
+	background: red;
+	border-radius: 5px;
+	color: #fff;
+	padding: 5px 10px;
+	font-size: 14px;
+}
